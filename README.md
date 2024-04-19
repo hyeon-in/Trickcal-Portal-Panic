@@ -6,7 +6,7 @@
 </p>
 
 ## 다운로드
-- [윈도우(Windows)](https://github.com/hyeon-in/Trickcal-Portal-Panic/releases/download/DEMO/Trickcal_Portal_Panic_DEMO_v0.1.0.zip)
+- [윈도우(Windows)](https://github.com/hyeon-in/Trickcal-Portal-Panic/releases/download/DEMO(v0.1.0)/Trickcal_Portal_Panic_DEMO_v0.1.0.zip)
 
 # 개요
 
