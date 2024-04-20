@@ -17,9 +17,10 @@
 ## 스크린샷
 
 <p align="center">
-	<img src="./img/screenshot1.png" alt="Description of the image">
-	<img src="./img/screenshot2.png" alt="Description of the image">
-	<img src="./img/screenshot3.png" alt="Description of the image"">
+	<img src="./img/screenshot1.png">
+	<img src="./img/screenshot2.png">
+	<img src="./img/screenshot3.png">
+  <img src="./img/GIF1.gif">
 </p>
 
 ## 게임 플레이
