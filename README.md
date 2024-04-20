@@ -20,7 +20,7 @@
 	<img src="./img/screenshot1.png">
 	<img src="./img/screenshot2.png">
 	<img src="./img/screenshot3.png">
-  <img src="./img/GIF1.gif">
+  <img src="./img/GIF1.gif" width="520" height="400">
 </p>
 
 ## 게임 플레이
